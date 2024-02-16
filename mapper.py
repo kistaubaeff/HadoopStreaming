@@ -32,8 +32,12 @@ for line in sys.stdin:
         # tab-delimited; the trivial word count is 1
         sys.stderr.write("reporter:counter:testcountergroup,wordcounter,1\n")
         current = word.split(', ')
-        date = rounder(datetime\
-                       .strptime(current[0],\
-                       '%d.%m.%Y %H:%M:%S.%f'))\
-                       .strftime("%d.%m.%Y %H:%M:%S.%f")[:-3]
-        print(f"{date}, {current[1]}, {current[2].split('_', 1)[1]}\t{current[3]}")
+        try:
+            date = rounder(datetime\
+                        .strptime(current[0],\
+                        '%d.%m.%Y %H:%M:%S.%f'))\
+                        .strftime("%d.%m.%Y %H:%M:%S.%f")[:-3]
+            print(f"{date}, {current[1]}, {current[2].split('_', 1)[1]}\t{current[3]}")
+        except ValueError:
+            # process dummy string
+            continue
