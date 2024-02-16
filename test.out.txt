@@ -1,170 +1,32 @@
-Aenean  3
-Aliquam 6
-Cras    6
-Curabitur       3
-Donec   4
-Duis    4
-Etiam   3
-Fusce   8
-In      7
-Integer 4
-Lorem   1
-Maecenas        8
-Mauris  2
-Morbi   2
-Nam     4
-Nulla   6
-Nullam  3
-Nunc    2
-Pellentesque    2
-Phasellus       3
-Praesent        1
-Proin   2
-Quisque 2
-Sed     5
-Suspendisse     5
-Ut      4
-Vestibulum      8
-Vivamus 6
-a       15
-ac      14
-accumsan        3
-adipiscing      1
-aliquam 2
-aliquet 2
-amet    15
-ante    10
-arcu    6
-at      12
-auctor  2
-augue   7
-bibendum        3
-blandit 4
-commodo 2
-condimentum     4
-congue  1
-consectetur     5
-consequat       2
-convallis       5
-cubilia 3
-curae;  3
-cursus  7
-dapibus 7
-diam    7
-dictum  1
-dictumst        2
-dignissim       8
-dolor   4
-dui     6
-efficitur       3
-egestas 5
-eget    9
-eleifend        3
-elementum       4
-elit    9
-enim    7
-erat    10
-eros    5
-est     9
-et      12
-eu      2
-euismod 3
-ex      7
-facilisi        1
-facilisis       3
-faucibus        6
-felis   4
-fermentum       5
-feugiat 3
-finibus 4
-fringilla       1
-gravida 4
-habitasse       2
-hac     2
-hendrerit       7
-iaculis 3
-id      10
-imperdiet       3
-in      16
-interdum        5
-ipsum   8
-justo   8
-lacinia 4
-lacus   3
-laoreet 3
-lectus  8
-leo     5
-libero  6
-ligula  3
-lobortis        5
-lorem   5
-luctus  6
-magna   5
-malesuada       6
-massa   6
-mattis  5
-mauris  4
-maximus 5
-metus   10
-mi      5
-molestie        4
-mollis  5
-nec     5
-neque   9
-nibh    4
-nisi    6
-nisl    10
-non     12
-nulla   6
-nunc    1
-odio    5
-orci    8
-ornare  3
-pellentesque    1
-pharetra        4
-placerat        4
-platea  2
-porta   3
-porttitor       7
-posuere 7
-potenti 2
-pretium 5
-primis  3
-pulvinar        4
-purus   10
-quam    4
-quis    10
-rhoncus 5
-risus   7
-rutrum  8
-sagittis        2
-sapien  4
-scelerisque     5
-sed     7
-sem     5
-semper  4
-sit     15
-sodales 7
-sollicitudin    6
-suscipit        5
-tellus  3
-tempus  2
-tincidunt       8
-tortor  5
-tristique       3
-turpis  7
-ullamcorper     1
-ultrices        5
-ultricies       10
-urna    3
-ut      15
-varius  4
-vehicula        3
-vel     11
-velit   5
-venenatis       6
-vestibulum      3
-vitae   9
-viverra 1
-volutpat        7
-vulputate       2
+21.03.2021 12:00:00.000, area1, pres, 742;
+21.03.2021 12:00:00.000, area2, temp, 16;
+21.03.2021 12:00:00.000, area3, temp, 26;
+21.03.2021 12:00:00.000, area4, hum, 63;
+21.03.2021 12:00:00.000, area5, hum, 60;
+21.03.2021 12:00:00.000, area6, pres, 759;
+21.03.2021 12:00:00.000, area7, temp, 24;
+21.03.2021 12:00:00.000, area8, pres, 781;
+21.03.2021 12:00:00.000, area9, hum, 58;
+21.03.2021 15:00:00.000, area1, pres, 782;
+21.03.2021 15:00:00.000, area2, temp, 22;
+21.03.2021 15:00:00.000, area3, pres, 743;
+21.03.2021 15:00:00.000, area4, hum, 61;
+21.03.2021 15:00:00.000, area5, hum, 64;
+21.03.2021 15:00:00.000, area6, temp, 24;
+21.03.2021 15:00:00.000, area7, hum, 59;
+21.03.2021 15:00:00.000, area8, pres, 758;
+21.03.2021 15:00:00.000, area9, temp, 15;
+22.03.2021 12:00:00.000, area1, pres, 742;
+22.03.2021 12:00:00.000, area3, temp, 26;
+22.03.2021 12:00:00.000, area5, temp, 16;
+22.03.2021 12:00:00.000, area6, pres, 759;
+22.03.2021 12:00:00.000, area7, temp, 24;
+22.03.2021 12:00:00.000, area9, pres, 781;
+22.03.2021 13:00:00.000, area1, pres, 741;
+22.03.2021 13:00:00.000, area2, temp, 17;
+22.03.2021 13:00:00.000, area3, temp, 27;
+22.03.2021 13:00:00.000, area5, hum, 59;
+22.03.2021 13:00:00.000, area6, pres, 760;
+22.03.2021 13:00:00.000, area7, temp, 25;
+22.03.2021 13:00:00.000, area8, pres, 780;
+22.03.2021 13:00:00.000, area9, hum, 57;
