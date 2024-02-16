@@ -5,18 +5,22 @@ import sys
 
 
 def rounder(t):
+    """
+    Round a given datetime object to the nearest hour by setting the minutes and seconds to zero.
+    Parameters:
+    t (datetime): The datetime object to be rounded.
+    Returns:
+    datetime: The rounded datetime object.
+    """
     if t.minute >= 30:
         return t.replace(second=0, microsecond=0, minute=0, hour=t.hour+1)
-    else:
-        return t.replace(second=0, microsecond=0, minute=0)
+    return t.replace(second=0, microsecond=0, minute=0)
 
 
 # input comes from STDIN (standard input)
 for line in sys.stdin:
     # remove leading and trailing whitespace
     line = line.strip().rstrip(';')
-    
-    
     # split the line into words
     words = line.split('\n')
     # increase counters
@@ -32,5 +36,4 @@ for line in sys.stdin:
                        .strptime(current[0],\
                        '%d.%m.%Y %H:%M:%S.%f'))\
                        .strftime("%d.%m.%Y %H:%M:%S.%f")[:-3]
-        
         print(f"{date}, {current[1]}, {current[2].split('_', 1)[1]}\t{current[3]}")
