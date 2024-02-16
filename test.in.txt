@@ -1,19 +1,34 @@
-Lorem ipsum dolor sit amet consectetur adipiscing elit Nulla non hendrerit lorem Aenean condimentum elit odio id gravida nisl molestie ac Ut semper metus sed dui finibus lobortis Praesent maximus justo tincidunt iaculis molestie Nunc mollis dapibus lobortis Pellentesque id dignissim massa Fusce dignissim mi eros a consequat odio scelerisque vitae Aliquam dignissim turpis in elit ultricies ac semper erat malesuada Fusce sit amet lobortis libero
-
-In hac habitasse platea dictumst Mauris ultricies nulla eget libero vulputate quis volutpat lectus ultricies Curabitur egestas pharetra magna ac condimentum In id scelerisque felis Nunc fermentum rhoncus metus a venenatis mauris In maximus elementum mauris et volutpat nisi finibus ac Maecenas efficitur erat quis imperdiet volutpat nisl diam consequat lacus a dignissim eros metus et nisl Duis imperdiet luctus nisl in semper Vivamus et ornare erat a lacinia risus Nulla auctor ligula quis sapien dignissim at cursus velit ultricies Aliquam gravida est vel purus feugiat pulvinar Integer in purus non mauris egestas dignissim et id tortor Vivamus vel nisi turpis
-
-Proin facilisis massa sit amet egestas convallis Donec sit amet facilisis lectus id venenatis diam Suspendisse laoreet ligula ut tincidunt porttitor risus lectus luctus quam ut elementum massa turpis vitae arcu Duis vel tincidunt leo Etiam ut facilisis arcu Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed at rutrum augue mattis tincidunt ante Nulla quis metus nisl Vivamus in diam ut purus fermentum pretium Nam dignissim commodo dolor malesuada placerat augue condimentum eget Fusce convallis justo elit sed interdum sem dignissim a Fusce nec arcu ac orci blandit fringilla
-
-Vestibulum diam lectus blandit vitae nulla et aliquet pulvinar purus Aenean varius elit et nibh sodales at sollicitudin purus vulputate Ut ut porta tortor Nam congue tristique mi ut interdum Cras enim enim tempus non magna et rutrum cursus lorem Etiam feugiat neque ut massa tristique ac fermentum risus suscipit Aenean ut ante mollis bibendum leo a hendrerit nibh Ut justo ante euismod non eros vitae pretium convallis massa
-
-Integer a malesuada tellus Nulla ultricies mollis mauris ut tincidunt nulla condimentum in Integer cursus sollicitudin lobortis Aliquam volutpat justo ac iaculis tincidunt nisi lacus sodales nibh non sagittis turpis ex in leo Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat Duis sed quam ultricies tincidunt diam pharetra posuere ante Integer sodales purus risus ac sodales ex hendrerit auctor Maecenas laoreet sit amet arcu at consectetur Curabitur vitae est massa Phasellus vitae magna at ex porta dapibus Cras finibus varius metus a mollis Nullam a justo ultricies feugiat turpis at blandit augue Maecenas accumsan ex sit amet ipsum dapibus venenatis Vivamus at felis euismod sollicitudin magna eget hendrerit ante
-
-Curabitur odio est volutpat at eros ac tempus rhoncus mi Sed nulla tortor cursus sed commodo non varius ac ipsum Phasellus lacinia diam id cursus mollis Mauris vel elit eros Vivamus enim neque suscipit at sem vel maximus pretium urna Vestibulum placerat neque neque in dapibus purus aliquam quis Morbi ut lorem vel ante vestibulum rhoncus Sed egestas nisl dolor sed pretium nisl efficitur nec Sed et orci odio Ut gravida nulla nec semper volutpat sem enim elementum orci quis interdum justo nisi at lacus
-
-Fusce sem est efficitur non libero ut luctus pellentesque lectus Donec sit amet pharetra libero Maecenas aliquet velit quis tellus tristique porttitor Vestibulum elementum aliquam erat eget eleifend Aliquam malesuada erat sit amet rutrum ultrices nisi lorem hendrerit diam sit amet porttitor velit felis mattis purus Suspendisse porta scelerisque elit Fusce lectus neque consectetur ut urna in ornare molestie metus Etiam sodales dolor ut vehicula lacinia leo arcu vestibulum lectus vel faucibus elit erat a erat Quisque at maximus arcu Morbi sem nibh scelerisque at dapibus in sollicitudin a magna
-
-Vestibulum nec tortor bibendum placerat urna quis accumsan risus Maecenas venenatis nisl a nulla posuere sed rhoncus metus dictum Fusce vel dui interdum varius turpis nec venenatis velit Cras eu sagittis ex Suspendisse potenti Aliquam ut convallis mi sed ultricies turpis Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas metus mi pulvinar sit amet nisl non ullamcorper vehicula ex Nullam porttitor quam erat non rutrum nisl porttitor a Nulla facilisi Phasellus ac tellus malesuada iaculis orci consectetur pharetra augue Nam tincidunt vitae lectus vestibulum viverra Vestibulum non purus leo Donec pulvinar sapien venenatis augue bibendum hendrerit Pellentesque laoreet augue id ex cursus rutrum vitae sit amet justo
-
-Fusce vel dapibus metus quis egestas ligula Maecenas vitae blandit est in rutrum elit In non est rhoncus ultricies augue id ornare orci In consectetur felis est a pretium metus placerat in Cras ac fermentum libero Cras erat purus porttitor sit amet lacinia eget rutrum a sapien Vivamus scelerisque lorem dui eget mattis neque imperdiet in Suspendisse libero nunc porttitor vel quam id ultricies ultrices enim Donec sit amet rutrum sapien Maecenas in vehicula ante eget eleifend ipsum Duis posuere sollicitudin justo sit amet dapibus Quisque neque neque accumsan gravida sollicitudin eu mattis sit amet ipsum Sed eleifend posuere velit ac faucibus est sodales eget
-
-In hac habitasse platea dictumst Nulla quis risus finibus enim maximus hendrerit suscipit et dui Nullam interdum odio tortor cursus lobortis neque convallis non In mattis fermentum nisi Suspendisse potenti Nam id sodales risus Proin eget molestie dui vel malesuada dui Cras suscipit suscipit enim ut euismod est faucibus ac
+21.03.2021 12:01:22.375, area3, sensor145_temp, 26;
+21.03.2021 12:02:15.411, area6, sensor511_pres, 759;
+21.03.2021 12:02:21.110, area5, sensor324_hum, 60;
+21.03.2021 12:03:22.375, area2, sensor48_temp, 16;
+21.03.2021 12:04:15.411, area8, sensor632_pres, 781;
+21.03.2021 12:05:22.375, area7, sensor238_temp, 24;
+21.03.2021 12:16:21.110, area4, sensor556_hum, 63;
+21.03.2021 12:22:15.411, area1, sensor721_pres, 742;
+21.03.2021 12:24:23.110, area5, sensor33_hum, 64;
+21.03.2021 12:26:21.110, area9, sensor423_hum, 58;
+21.03.2021 12:27:15.411, area1, sensor732_pres, 790;
+21.03.2021 15:01:22.375, area6, sensor728_temp, 24;
+21.03.2021 15:02:15.411, area8, sensor629_pres, 758;
+21.03.2021 15:02:21.110, area4, sensor886_hum, 61;
+21.03.2021 15:03:22.375, area9, sensor135_temp, 15;
+21.03.2021 15:04:15.411, area1, sensor432_pres, 782;
+21.03.2021 15:05:22.375, area2, sensor912_temp, 22;
+21.03.2021 15:16:21.110, area5, sensor212_hum, 64;
+21.03.2021 15:22:15.411, area3, sensor557_pres, 743;
+21.03.2021 15:26:21.110, area7, sensor399_hum, 59;
+22.03.2021 12:01:22.375, area3, sensor811_temp, 26;
+22.03.2021 12:02:15.411, area6, sensor390_pres, 759;
+22.03.2021 12:03:22.375, area5, sensor587_temp, 16;
+22.03.2021 12:04:15.411, area9, sensor719_pres, 781;
+22.03.2021 12:05:22.375, area7, sensor134_temp, 24;
+22.03.2021 12:22:15.411, area1, sensor123_pres, 742;
+22.03.2021 13:01:22.375, area3, sensor267_temp, 27;
+22.03.2021 13:02:15.411, area6, sensor512_pres, 760;
+22.03.2021 13:02:21.110, area5, sensor325_hum, 59;
+22.03.2021 13:03:22.375, area2, sensor49_temp, 17;
+22.03.2021 13:04:15.411, area8, sensor633_pres, 780;
+22.03.2021 13:05:22.375, area7, sensor376_temp, 25;
+22.03.2021 13:22:15.411, area1, sensor722_pres, 741;
+22.03.2021 13:26:21.110, area9, sensor424_hum, 57;
