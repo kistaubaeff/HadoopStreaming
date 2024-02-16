@@ -24,7 +24,6 @@ for line in sys.stdin:
 
     # this IF-switch only works because Hadoop sorts map output
     # by key (here: word) before it is passed to the reducer
-    
     if current_word == word:
         current_count += count
         counter += 1
@@ -39,4 +38,3 @@ for line in sys.stdin:
 # do not forget to output the last word if needed!
 if current_word == word:
     print(f"{current_word}, {current_count//counter};")
-    
