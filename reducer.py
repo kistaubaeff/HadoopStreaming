@@ -6,7 +6,7 @@ import sys
 current_word = None
 current_count = 0
 word = None
-
+counter = 0
 # input comes from STDIN
 for line in sys.stdin:
     # remove leading and trailing whitespace
